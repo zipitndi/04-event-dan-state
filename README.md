@@ -39,6 +39,8 @@ Penggunaan button baru yaitu artikel selanjut nya, dengan menekan tombol " Artik
 ![week4](image,vid/week%204,%204,3.png)
 ![week4](image,vid/week%204,%204,4.png)
 
-Berikut penyelesaian masalah pada saat klik ke-6 dengan memodifikasi setIndex pada gallery.tsx
+Berikut penyelesaian masalah pada saat klik ke-6 dengan memodifikasi setIndex pada gallery.tsx 
 
-![week4](image,vid/week%204,%205.mp4)
+Dan penambahan Button " Artikel Sebelumnya "
+![week4](image,vid/week%204,%204,5.png)
+
