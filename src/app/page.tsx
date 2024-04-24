@@ -1,6 +1,9 @@
 "use client";
 import Tombol_1, { Tombol_2, Tombol_3 } from "@/components/button";
+import Form, { Form_2 } from "@/components/form";
 import Gallery from "@/components/gallery";
+import Accordion from "@/components/accordion";
+import Chat from "@/components/chat";
 
 export default function Home() {
     return (
@@ -18,6 +21,14 @@ export default function Home() {
             </div>
             <br></br>
             <Gallery />
+            <br></br>
+            <Form />
+            <br></br>
+            <Form_2 />
+            <br></br>
+            <Accordion />
+            <br></br>
+            <Chat />
         </>
     );
 }
